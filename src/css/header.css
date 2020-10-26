@@ -1,0 +1,31 @@
+.nav-insideone
+{
+    margin-top: 3px;
+    font-size: 25px;
+}
+.nav-cna
+{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   
+    background-image: linear-gradient(to bottom right, #0088ff , #1053fc);
+    color: white;
+    
+}
+.nav-insidetwo
+{
+    display: flex;
+}
+.nav-insidetwo span
+{
+  margin-left: 25px;
+  padding:10px 30px;
+}
+.trial-btn
+{
+    background-color: #393a3c;
+}

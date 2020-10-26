@@ -1,0 +1,38 @@
+.social-logo img
+{
+    width: 20px;
+    color: white;
+    padding-right: 10px;
+}
+.social-logo-two img
+{
+    width: 80px;
+    color: white;
+    padding-right: 10px;
+}
+.f-container
+{
+    background-color:  #393a3c;
+    color: white;
+    padding-bottom: 30px;
+}
+.social-logo-container
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top:20px ;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.f-terms-b 
+{
+    padding-top: 15px;
+}
+
+.f-terms-b p
+{
+    
+    margin-left: 50px;
+    font-size: 8px;
+    letter-spacing: 0.3px;
+}
